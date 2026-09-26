@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architecture Documentation
+title: Architecture
 nav_order: 2
 ---
 
