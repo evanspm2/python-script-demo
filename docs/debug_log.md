@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Debug Log
-nav_order: 2
-permalink: /
+nav_order: 4
 ---
 
 00000 Circuit Check Utility - _email_report()
