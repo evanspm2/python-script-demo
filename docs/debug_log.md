@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview
+title: Debug Log
 nav_order: 2
 permalink: /
 ---
