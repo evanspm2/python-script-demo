@@ -1,3 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 title: Python Script Documentation
 description: Interview Showcase and Project Documentation
+
+gh_edit_repository: "https://github.com/evanspm2/python-script-demo"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+plugins:
+  - jekyll-remote-theme
