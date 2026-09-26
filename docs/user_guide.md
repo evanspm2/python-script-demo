@@ -1,3 +1,9 @@
+---
+layout: default
+title: Architecture Documentation
+nav_order: 2
+---
+
 # Checker
 
 ![](images/image1.png)
