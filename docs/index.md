@@ -11,7 +11,7 @@ permalink: /
 
 Designed for seamless enterprise integration, **Checker is launched via Jenkins** with minimal parameters. The engine logs directly into targeted infrastructure, collects state telemetry, updates a persistent database, and automatically distributes a comprehensive verification report to engineers. 
 
-The initial release natively supports **Juniper MX series routers**, providing **9 distinct signature profiles** that cover a broad spectrum of production circuit types. The application is architected with scalability in mind, featuring abstract foundations ready to support future hardware vendors and circuit profiles.
+The initial release natively supports **Juniper MX series routers**, providing **13 distinct signature profiles** that cover a broad spectrum of production circuit types. The application is architected with scalability in mind, featuring abstract foundations ready to support future hardware vendors and circuit profiles.
 
 ---
 

@@ -1,9 +1,3 @@
----
-layout: default
-title: Architecture
-nav_order: 2
----
-
 # Checker
 
 ![](images/image1.png)
