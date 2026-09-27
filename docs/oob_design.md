@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Object-Oriented Class Design
+title: Object-Oriented Design
 nav_order: 4
 ---
 
