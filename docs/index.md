@@ -5,6 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
+![](images/flag.webp)
+
 # Project Overview: Checker
 
 **Checker** is a robust, production-grade network automation utility built in Python to perform **per-circuit prechecks and postchecks**. It streamlines the process of migrating circuits between network devices or migrating targeted subsets of circuits on a single platform, replacing manual state verification with a highly reliable, automated pipeline.
