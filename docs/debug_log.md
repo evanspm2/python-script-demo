@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Debug Log
-nav_order: 4
+nav_order: 5
 ---
 
+```text
 00000 Circuit Check Utility - _email_report()
 00001   Date : 25-02-06 - _email_report()
 00002   Time : 11:42:33 - _email_report()
@@ -4873,3 +4874,4 @@ nav_order: 4
 04751   From: checker@crowncastle.com - _email_report()
 04752   SMTP Server: mailrelay.crowncastle.com - _email_report()
 04753   Timestamp: 25-02-06 11:43:45 - _email_report()
+```

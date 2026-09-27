@@ -218,7 +218,3 @@ The application isolates network telemetry into **13 distinct structural signatu
 The module captures raw runtime arrays, parses target attributes dynamically using internal regular matching classes, and routes data frames into their respective profile engine routines for differential text rendering.
 
 ![](images/image9.png)
-
-### Modular, object-oriented system design
-
-![](images/image17.png)

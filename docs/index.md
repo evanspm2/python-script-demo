@@ -5,7 +5,17 @@ nav_order: 1
 permalink: /
 ---
 
-![](images/flag.webp)
+
+# Peter Evans
+**[Git Hub](https://github.com/evanspm2)** | **[Linked In](https://www.linkedin.com/in/evanspm/)**
+
+<br>
+<br>
+<br>
+
+<img src="images/flag.webp" alt="Description" width="300">
+
+💻 **[Raw Python Script](https://github.com/evanspm2/python-script-demo/blob/main/script.py)**
 
 # Project Overview: Checker
 
@@ -48,11 +58,3 @@ The application relies on a robust mixture of standard and specialized Python li
 * **Persistence & APIs:** `sqlite3` to coordinate data layers between runs, and `requests` for external orchestration hooks.
 * **Communication Suite:** `smtplib` and `email` modules configured to build and securely route rich HTML reporting blocks.
 * **System Utilities:** `datetime`, `os`, and `time` for granular execution logging and environment configuration tracking.
-
----
-
-## 📂 Repository Quick Links
-
-* 💻 **[Raw Python Script](https://github.com)** — Review the modular object-oriented classes, methods, and attributes directly.
-* 📦 **[User & Installation Guide](./installation)** — System requirements, database initialization steps, and Jenkins parameter usage instructions.
-* 📝 **[Live Execution Logs](./usage-examples)** — Standard terminal outputs, sample summary tables, and examples of handled network exceptions.
