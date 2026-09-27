@@ -7,7 +7,7 @@ permalink: /
 
 
 # Peter Evans
-**[Git Hub](https://github.com/evanspm2)** | **[Linked In](https://www.linkedin.com/in/evanspm/)**
+**[Git Hub](https://github.com/evanspm2)** | **[Linked In](https://www.linkedin.com/in/evanspm/)** | 
 
 <br>
 <br>

@@ -8,7 +8,7 @@ Launched seamlessly via **Jenkins**, the engine handles target node connections,
 
 ## 🔗 Live Documentation & Presentation
 The full production documentation, architectural flows, and user guides are hosted via GitHub Pages:
-👉 **[View the Live Documentation Site](https://github.io)**
+👉 **[View the Live Documentation Site](https://evanspm2.github.io/python-script-demo)**
 
 ---
 
@@ -38,20 +38,3 @@ Checker is built using a clean, **modular, object-oriented design** pattern util
 * **Infrastructure Automation:** `netmiko`, `grpc`
 * **Data Processing & Validation:** `sqlite3`, `difflib`, `ipaddress`
 * **Reporting Utilities:** `smtplib`, `email`
-
----
-
-## 🚀 Quick Start Summary
-
-For deep setup instructions, configuration matrices, and database tables, please consult the [Full User Guide](https://github.iouser-guide).
-
-1. **Pipeline Execution:** Trigger the workflow from Jenkins passing target node identifiers and the migration circuit scope array.
-2. **Analysis Cycle:** The script executes device checks, maps interfaces, applies signature matching rules, and commits run metadata to SQLite3.
-3. **Delivery:** The engineer receives an automated alert containing clear, green/red operational differentials within 60 seconds of execution.
-
----
-
-## 📂 Project Repository Layout
-
-* [`script.py`](./script.py) — Core application source code, modules, and classes.
-* [`docs/`](./docs) — Markdown source documentation powered by Jekyll and the *Just the Docs* theme.
